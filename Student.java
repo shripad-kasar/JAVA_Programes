@@ -10,5 +10,8 @@ public class Student{
 	public static void main(String[] args){
 
 		Student s=new Student(101,"Shripad");
+		System.out.println(s.id);
+		System.out.println(s.name);
+		System.out.println("Pull");
 	}
 }
