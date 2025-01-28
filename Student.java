@@ -13,5 +13,6 @@ public class Student{
 		System.out.println(s.id);
 		System.out.println(s.name);
 		System.out.println("Pull");
+		System.out.println("krushna");
 	}
 }
